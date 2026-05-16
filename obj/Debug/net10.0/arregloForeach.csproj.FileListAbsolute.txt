@@ -1,0 +1,15 @@
+/workspaces/arregloForeach/bin/Debug/net10.0/arregloForeach
+/workspaces/arregloForeach/bin/Debug/net10.0/arregloForeach.deps.json
+/workspaces/arregloForeach/bin/Debug/net10.0/arregloForeach.runtimeconfig.json
+/workspaces/arregloForeach/bin/Debug/net10.0/arregloForeach.dll
+/workspaces/arregloForeach/bin/Debug/net10.0/arregloForeach.pdb
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.AssemblyInfoInputs.cache
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.AssemblyInfo.cs
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.csproj.CoreCompileInputs.cache
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.sourcelink.json
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.dll
+/workspaces/arregloForeach/obj/Debug/net10.0/refint/arregloForeach.dll
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.pdb
+/workspaces/arregloForeach/obj/Debug/net10.0/arregloForeach.genruntimeconfig.cache
+/workspaces/arregloForeach/obj/Debug/net10.0/ref/arregloForeach.dll
